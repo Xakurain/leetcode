@@ -8,6 +8,7 @@
 class Solution:
     def rootCount(self, edges: List[List[int]], guesses: List[List[int]], k: int) -> int:
         lab = 1
+        top = 2
         
 # @lc code=end
 
